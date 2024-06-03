@@ -1,0 +1,2 @@
+To remove existing java version from mac use 
+sudo rm -rf /Library/Java/JavaVirtualMachines/jdk-1.8.jdk
